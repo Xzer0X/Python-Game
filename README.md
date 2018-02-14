@@ -1,2 +1,2 @@
-# Python-Game
-A text-adventure game in python.
+# Python T.A.G
+A *T.A.G* (text-adventure game) in python.
